@@ -49,3 +49,8 @@
 .item{
 width: 100%;height: 50vh;
 }
+@media screen and (max-width: 600px) {
+
+	.item{
+height: 30vh;
+}
