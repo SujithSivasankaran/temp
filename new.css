@@ -1,0 +1,42 @@
+.center{
+	text-align: center;
+}
+.img-thumbnail{
+	border:none;
+	background-color: white;
+}
+.element {
+  position:fixed;
+  bottom: 0;
+  right: 0px;
+  z-index:1;
+}
+.element1 {
+  position:fixed;
+  bottom: 100px;
+  right: 0px;
+  z-index:1;
+ }
+
+.element2 {
+  position:fixed;
+  bottom: 200px;
+  right: 0px;
+  z-index:1;
+}
+
+.mtop20{
+	margin-top: 20px;
+}
+
+.carousel .carousel-item {
+  height: 500px;
+}
+
+.carousel-item img {
+    position: absolute;
+    object-fit:cover;
+    top: 0;
+    left: 0;
+    min-height: 500px;
+}
